@@ -1,0 +1,16 @@
+E:\senai\jogadores\bin\Debug\net5.0\jogadores.exe
+E:\senai\jogadores\bin\Debug\net5.0\jogadores.deps.json
+E:\senai\jogadores\bin\Debug\net5.0\jogadores.runtimeconfig.json
+E:\senai\jogadores\bin\Debug\net5.0\jogadores.runtimeconfig.dev.json
+E:\senai\jogadores\bin\Debug\net5.0\jogadores.dll
+E:\senai\jogadores\bin\Debug\net5.0\ref\jogadores.dll
+E:\senai\jogadores\bin\Debug\net5.0\jogadores.pdb
+E:\senai\jogadores\obj\Debug\net5.0\jogadores.csprojAssemblyReference.cache
+E:\senai\jogadores\obj\Debug\net5.0\jogadores.GeneratedMSBuildEditorConfig.editorconfig
+E:\senai\jogadores\obj\Debug\net5.0\jogadores.AssemblyInfoInputs.cache
+E:\senai\jogadores\obj\Debug\net5.0\jogadores.AssemblyInfo.cs
+E:\senai\jogadores\obj\Debug\net5.0\jogadores.csproj.CoreCompileInputs.cache
+E:\senai\jogadores\obj\Debug\net5.0\jogadores.dll
+E:\senai\jogadores\obj\Debug\net5.0\ref\jogadores.dll
+E:\senai\jogadores\obj\Debug\net5.0\jogadores.pdb
+E:\senai\jogadores\obj\Debug\net5.0\jogadores.genruntimeconfig.cache

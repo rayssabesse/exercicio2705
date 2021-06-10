@@ -1,0 +1,16 @@
+E:\senai\elevador\bin\Debug\net5.0\elevador.exe
+E:\senai\elevador\bin\Debug\net5.0\elevador.deps.json
+E:\senai\elevador\bin\Debug\net5.0\elevador.runtimeconfig.json
+E:\senai\elevador\bin\Debug\net5.0\elevador.runtimeconfig.dev.json
+E:\senai\elevador\bin\Debug\net5.0\elevador.dll
+E:\senai\elevador\bin\Debug\net5.0\ref\elevador.dll
+E:\senai\elevador\bin\Debug\net5.0\elevador.pdb
+E:\senai\elevador\obj\Debug\net5.0\elevador.csprojAssemblyReference.cache
+E:\senai\elevador\obj\Debug\net5.0\elevador.GeneratedMSBuildEditorConfig.editorconfig
+E:\senai\elevador\obj\Debug\net5.0\elevador.AssemblyInfoInputs.cache
+E:\senai\elevador\obj\Debug\net5.0\elevador.AssemblyInfo.cs
+E:\senai\elevador\obj\Debug\net5.0\elevador.csproj.CoreCompileInputs.cache
+E:\senai\elevador\obj\Debug\net5.0\elevador.dll
+E:\senai\elevador\obj\Debug\net5.0\ref\elevador.dll
+E:\senai\elevador\obj\Debug\net5.0\elevador.pdb
+E:\senai\elevador\obj\Debug\net5.0\elevador.genruntimeconfig.cache
